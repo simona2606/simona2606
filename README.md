@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 [Linkedin](https://www.linkedin.com/in/simona-ettari-109998187/)
 
-## Hello World! (https://tenor.com/it/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042246)
+## Hello World! ![] (https://i.gifer.com/VPTe.gif)
 
 I'm Simona Ettari and Italian 🇮🇹, I recently graduated from a bachelor's degree in Computer Science at Federico II in Naples and also attended the Apple Developer Academy for two years.
 
