@@ -1,6 +1,6 @@
 # Simona Ettari
 
-### [Linkedin](https://www.linkedin.com/in/simona-ettari-109998187/)
+### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/simona-ettari-109998187/)
 
 ## Hello World! <img src="https://github.com/simona2606/simona2606/blob/main/world.git.gif" width="30" height="30">
 
