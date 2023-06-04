@@ -8,8 +8,8 @@ I'm Simona Ettari and Italian 🇮🇹, I recently graduated from a bachelor's d
 
 I'm passionate about solving problems with technology and creating different solutions and I love working in team.
 
-. 🏡 I love being with my family and friends, they are everything to me.
-. ✈️ I love to travel and get to know new places and cultures.
-. 🧐 I am very determined and curious about new things.
-. 🏓 Passionate about Table Tennis and sport in general.
-. 👩🏽‍🎓 My academic life (here).
+* 🏡 I love being with my family and friends, they are everything to me.
+* ✈️ I love to travel and get to know new places and cultures.
+* 🧐 I am very determined and curious about new things.
+* 🏓 Passionate about Table Tennis and sport in general.
+* 👩🏽‍🎓 My academic life (here).
