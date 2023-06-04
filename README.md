@@ -11,4 +11,4 @@ I'm passionate about solving problems with technology and creating different sol
 * ✈️ I love to travel and get to know new places and cultures.
 * 🧐 I am very determined and curious about new things.
 * 🏓 Passionate about Table Tennis and sport in general.
-* 👩🏽‍🎓 My academic life ![](file:///Users/simonaettari/Desktop/Simona%20Ettari%20CV.pdf).
+* 👩🏽‍🎓 My academic life ![here](file:///Users/simonaettari/Desktop/Simona%20Ettari%20CV.pdf).
