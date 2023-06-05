@@ -1,5 +1,6 @@
 # Simona Ettari  <img src="https://github.com/simona2606/simona2606/blob/main/assets/stitch.gif" width="40" height="40">
-### [<img width="100px" src="https://github.com/simona2606/simona2606/blob/main/assets/linkedIn.png" />](https://www.linkedin.com/in/simona-ettari-109998187/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simona-ettari-109998187/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@simonaettari26) 
 
 ## Hello World! <img src="https://github.com/simona2606/simona2606/blob/main/assets/world.git.gif" width="30" height="30">
 
