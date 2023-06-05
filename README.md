@@ -13,3 +13,6 @@ I'm passionate about solving problems with technology and creating different sol
 * 🧐 I am very determined and curious about new things.
 * 🏓 Passionate about Table Tennis and sport in general.
 * 👩🏽‍🎓 My academic life and other informations ![here](https://github.com/simona2606/simona2606/blob/main/assets/Simona%20Ettari%20CV.pdf).
+
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%235C5AD8.svg?style=for-the-badge&logo=figma&logoColor=white)
