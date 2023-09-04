@@ -12,7 +12,7 @@ I'm passionate about solving problems with technology and creating different sol
 * ✈️ I love to travel and get to know new places and cultures.
 * 🧐 I am very determined and curious about new things.
 * 🏓 Passionate about Table Tennis and sports in general.
-* 👩🏽‍🎓 My academic life and other informations ![here](https://github.com/simona2606/list-of-courses-certifications/blob/main/README.md).
+* 👩🏽‍🎓 My academic life and other informations [here](https://github.com/simona2606/list-of-courses-certifications/blob/main/README.md).
 
 
 ## Tech Stack  <img src="https://github.com/simona2606/simona2606/blob/main/assets/pc.gif" width="60" height="30" >  
