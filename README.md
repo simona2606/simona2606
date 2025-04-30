@@ -6,7 +6,7 @@
 
 I'm Simona Ettari and Italian 🇮🇹, currently working as a SysOps Administrator and studying for a Master’s degree in Cybersecurity and Cloud Technologies. I recently graduated from a bachelor's degree in Computer Science at Federico II in Naples and also attended the Apple Developer Academy for two years.
 
-I'm passionate about solving problems with technology and creating different solutions and I love working in team. Other passions of mine are:
+I'm passionate about solving problems with technology and creating different solutions and I love working in team. Other curiosities about me:
 
 * 🏡 I love being with my family and friends, they are everything to me.
 * ✈️ I love to travel and get to know new places and cultures.
