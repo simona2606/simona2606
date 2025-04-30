@@ -4,7 +4,7 @@
 
 ## Hello World! <img src="https://github.com/simona2606/simona2606/blob/main/assets/world.git.gif" width="30" height="30">
 
-I'm Simona Ettari and Italian 🇮🇹, I recently graduated from a bachelor's degree in Computer Science at Federico II in Naples and also attended the Apple Developer Academy for two years.
+I'm Simona Ettari and Italian 🇮🇹, currently working as a SysOps Administrator and studying for a Master’s degree in Cybersecurity and Cloud Technologies. I recently graduated from a bachelor's degree in Computer Science at Federico II in Naples and also attended the Apple Developer Academy for two years.
 
 I'm passionate about solving problems with technology and creating different solutions and I love working in team.
 
